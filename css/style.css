@@ -1,0 +1,40 @@
+/*Global*/
+.root
+{
+    --font-color:#354f52;
+    --background-color:#cad2c5;
+}
+/*HTML tags*/
+.body
+{
+    background-color: var(--background-color);
+    color:var(--font-color);
+}
+a{
+    text-decoration: none;
+    color:var(--font-color);    
+}
+a:hover
+{
+    color:var(--font-color);
+}
+
+
+/*Classes*/
+.container-fluid
+{
+    background-color: var(--background-color) ;
+}
+.navbar
+{
+    background-color: var(--background-color) ;
+}
+.navbar ul li{
+    display:inline-block;
+    margin:10px;
+}
+.card-body
+{
+    color:var(--font-color) ;
+    background-color: var(--background-color) !important;
+}
