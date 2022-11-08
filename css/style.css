@@ -31,7 +31,7 @@ a:hover
 }
 .navbar ul li{
     display:inline-block;
-    margin:10px;
+   
 }
 .jumbotron
 {
@@ -40,4 +40,12 @@ a:hover
 .card{
     background-color:var(--background-color);
     color:var(--font-color) ;
+}
+@media (max-width: 770px ){
+    .card-body .display-4
+{
+    font-size: 30px;
+}
+
+    
 }
