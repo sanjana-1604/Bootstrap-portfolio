@@ -41,6 +41,10 @@ a:hover
     background-color:var(--background-color);
     color:var(--font-color) ;
 }
+
+#contact .navbar a:hover, #work_section .card:hover{
+    transform: scale(1.05);
+}
 @media (max-width: 770px ){
     .card-body .display-4
 {

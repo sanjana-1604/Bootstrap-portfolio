@@ -8,12 +8,7 @@ Created portfolio using HTML, CSS and Bootstrap
 https://sanjana-1604.github.io/Bootstrap-portfolio/
 
 ## Usage
-
-N/A
-
-## Credits
-
-
+![resume screenshot](./images/portfolio_landing_page.png)
 
 ## License
 
